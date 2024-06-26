@@ -179,8 +179,19 @@ Edit it:<br>
 <br><br>
 and open the serial monitor if the board is connected it will display<br>
 something like this:<br><br>
- <img src="Screenshot (15).jpg" alt="Serial monitor" width="500" height="242"><br><br><br>
+ <img src="Screenshot (15).jpg" alt="Serial monitor" width="500" height="242"><br><br>
 
+then open a browser and type the URL present in the Serial monitor and <br>define the port as
+
+       123.456.78.90:80
+<br>
+<br>
+the Port is defind as 
+
+             :80
+ 
+<br>
+<br>
  
 </body>
  </html>
