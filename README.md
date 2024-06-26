@@ -179,7 +179,7 @@ Edit it:<br>
 <br><br>
 and open the serial monitor if the board is connected it will display<br>
 something like this:<br><br>
- <img src="w3schools.jpg" alt="W3Schools.com" width="500" height="242"><br><br><br>
+ <img src="Screenshot (15).jpg" alt="Serial monitor" width="500" height="242"><br><br><br>
 
  
 </body>
