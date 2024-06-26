@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>This is ProgramIT</title>
+</head>
+<body>
+    <h1>ESP8266 webservercode!</h1><br>
+    <p>Hi this is the code for ESP8266 webserver!</p><br><br>
+    <a href="http://www.youtube.com/@ProgramIT_code">ProgramIT YT Channel</a><br>
+    <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"><br>
+</body>
+</html>
