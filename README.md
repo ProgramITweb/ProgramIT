@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>This is ProgramIT</title>
+     This is ProgramIT
 </head>
 <body>
     <h1>ESP8266 webservercode!</h1><br>
