@@ -157,6 +157,21 @@
     server.handleClient();
       
     }
-                 
+
+<br><br>
+Edit it:<br>
+
+                         ESP8266WebServer server(your port common is 80);
+
+ <br>
+ replase the   [ your port common is 80 ] to your port example<br>
+ [ "8080" , "80" , "443" or any 4 digit number ]<br>
+ <br>
+
+and open the serial monitor if the board is connected it will display<br>
+something like this:<br><br>
+ <img src="w3schools.jpg" alt="W3Schools.com" width="500" height="242"><br><br><br>
+
+ 
 </body>
  </html>
